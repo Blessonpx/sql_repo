@@ -1,0 +1,4 @@
+CREATE TABLE queue (
+  id SERIAL PRIMARY KEY, 
+  data TEXT
+);
